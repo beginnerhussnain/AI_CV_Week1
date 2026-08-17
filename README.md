@@ -1,5 +1,5 @@
 # Week 1: Traditional Computer Vision Fundamentals
-
+ 
 ## Overview
 This repository contains foundational image processing scripts developed during Week 1 of the AI Computer Vision Internship. The focus is on mastering pixel manipulation, spatial filtering, and feature extraction using **OpenCV** and **Python** before transitioning to deep learning architectures.
 
